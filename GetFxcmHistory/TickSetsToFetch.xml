@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+// Copyright (C) SquidEyes, LLC. - All Rights Reserved
+// Unauthorized copying of this file, via any medium is strictly prohibited
+// Proprietary and Confidential
+// Written by Louis S. Berman <louis@squideyes.com>, 9/18/2016
+-->
+<tickSetsToFetch>
+  <tickSet symbol ="EURUSD"
+           date="01/15/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="02/03/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="03/18/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="04/30/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="05/06/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="06/29/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="07/07/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="08/24/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="09/01/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="10/22/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="11/12/2015"/>
+  <tickSet symbol ="EURUSD"
+           date="12/03/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="01/15/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="02/03/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="03/18/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="04/30/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="05/06/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="06/29/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="07/07/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="08/24/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="09/01/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="10/22/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="11/12/2015"/>
+  <tickSet symbol ="USDJPY"
+           date="12/03/2015"/>  
+</tickSetsToFetch>
